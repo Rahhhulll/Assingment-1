@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: #cae3f8;
+    padding: 10px;
+    padding: 20px;
+    
+  }
+
+  
